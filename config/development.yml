@@ -1,0 +1,8 @@
+db: 
+  host: 'localhost'
+  username: 'docker'
+  password: 'docker'
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51'
